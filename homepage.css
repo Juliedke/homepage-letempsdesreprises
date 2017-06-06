@@ -1,0 +1,56 @@
+
+.navigation {
+    z-index: 100;
+    list-style-type: none;
+    width: 965px;
+    height: 30px;
+    margin: 0 auto;
+    padding: 0;
+    color:red;
+}
+
+
+.footer {
+    z-index: 100;
+    list-style-type: none;
+    width: 965px;
+    height: 30px;
+    margin: 0 auto;
+    padding: 0;
+    color:red;
+}
+
+global.min01.css:71
+.ddsmoothmenu ul {
+    z-index: 100;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.btn-default {background-color: #4CAF50;} /* Green */
+.btn-primary {background-color: #008CBA;} /* Blue */
+.btn-success {background-color: #f44336;} /* Red */ 
+.btn-info {background-color: #e7e7e7; color: black;} /* Gray */ 
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    
