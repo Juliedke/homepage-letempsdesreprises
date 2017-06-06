@@ -1,4 +1,9 @@
 
+.nice-font, h2,.navigation,.main,.footer {font-family:Arial, Helvetica, sans-serif};
+
+
+
+
 .navigation {
     z-index: 100;
     list-style-type: none;
