@@ -1,0 +1,2 @@
+$("navigation").mouseenter(function(){
+    $("navigation").fadeTo('slow',0.25);})
